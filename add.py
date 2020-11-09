@@ -5,7 +5,7 @@ def add(a,b):
     return c
 
 def test_add():
-    assert add(3,5) == 8
+    assert add(4,5) == 8
     
 
 wow=3
